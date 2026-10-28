@@ -1,7 +1,7 @@
 <h1 align="center">Mandla Baloyi</h1>
 
 <p align="center">
-  <img src="img/tagline-v2.svg" alt="Software Engineer, Python for Data, Rust for Speed, Clean, Tested Code, Maintainable and Scalable" width="720">
+  <img src="img/tagline-v3.svg" alt="Software Engineer, Python for Data, Rust for Speed, Clean, Tested Code, Secure by Design, Maintainable, Scalable Systems" width="720">
 </p>
 
 <p align="center">

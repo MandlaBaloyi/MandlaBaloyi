@@ -84,21 +84,11 @@
   <img src="https://img.shields.io/badge/AI%20Evals-000000?style=for-the-badge" alt="AI Evals">
 </p>
 
-### Integrations
-
-<p>
-  <img src="https://img.shields.io/badge/PayFast-000000?style=for-the-badge" alt="PayFast">
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=ffffff" alt="Mapbox">
-  <img src="https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary&logoColor=3448C5" alt="Cloudinary">
-  <img src="https://img.shields.io/badge/Google%20Sign--In-000000?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Sign-In">
-</p>
-
 ### Security
 
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff" alt="JWT">
   <img src="https://img.shields.io/badge/bcrypt-000000?style=for-the-badge" alt="bcrypt">
   <img src="https://img.shields.io/badge/Rate%20Limiting-000000?style=for-the-badge" alt="Rate Limiting">
-  <img src="https://img.shields.io/badge/Post--Quantum%20Signatures-000000?style=for-the-badge" alt="Post-Quantum Signatures">
   <img src="https://img.shields.io/badge/gitleaks-000000?style=for-the-badge" alt="gitleaks">
 </p>

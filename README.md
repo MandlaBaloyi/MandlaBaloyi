@@ -1,25 +1,14 @@
 <h1 align="center">Mandla Baloyi</h1>
 
 <p align="center">
-  <img src="img/typing.svg" alt="Full-Stack Development, Data and Machine Learning, APIs and Cloud Deployment, Mobile Apps with React Native" width="720">
+  <img src="img/typing.svg" alt="Software Engineer, Full-Stack Development, Python and Rust, Systems Programming in Rust, Production-Minded, Clean, Tested Code" width="720">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20AND%20DATA-2EA043?style=for-the-badge" alt="FOCUS: FULL-STACK AND DATA">
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-2EA043?style=for-the-badge" alt="FOCUS: SOFTWARE ENGINEERING">
   <img src="https://img.shields.io/badge/BASED-SOUTH%20AFRICA-1F6FEB?style=for-the-badge" alt="BASED: SOUTH AFRICA">
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-1%2C400%2B-D29922?style=for-the-badge" alt="CONTRIBUTIONS: 1,400+">
 </p>
-
----
-
-## Engineering Summary
-
-```diff
-+ Python, TypeScript and Rust
-+ REST APIs on Flask and PostgreSQL, mobile apps on React Native
-+ Deployed on AWS with Docker, tested with pytest and Jest
-! Data pipelines and models checked for leakage before they are trusted
-# Measure first. Claim second.
-```
 
 ---
 

@@ -1,57 +1,70 @@
+<h1 align="center">Mandla Baloyi</h1>
+
 <p align="center">
-  <img src="img/banner.svg" alt="Mandla Baloyi: I build software for real South African problems" width="100%">
+  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20AND%20DATA-2EA043?style=for-the-badge" alt="FOCUS: FULL-STACK AND DATA">
+  <img src="https://img.shields.io/badge/BASED-SOUTH%20AFRICA-1F6FEB?style=for-the-badge" alt="BASED: SOUTH AFRICA">
+  <img src="https://img.shields.io/badge/OPEN%20TO-GRADUATE%20ROLES-D29922?style=for-the-badge" alt="OPEN TO: GRADUATE ROLES">
 </p>
 
-Hi, I am Mandla. I build software for problems around me in South Africa: pipes that leak, learners choosing what to study, township traders who run on paper, farmers facing drought. I like work where the data is messy, the claims have to be checked, and the result is something a real person can use.
+---
 
-**Right now** I am building **TRY**, a free app that helps South African learners study, find courses and bursaries, and plan what comes next. It runs on AWS with a Flask backend, an Expo app, and an AI assistant whose answers are grounded in real data. It is private for now, so the projects below are the public record.
+## Tech Stack
 
-## Featured work
+### Languages
 
-| Project | What it is | The proof |
-|---|---|---|
-| [**joukowsky**](https://github.com/MandlaBaloyi/joukowsky) | A Rust engine that hears a pipe burst in the pressure data and finds it on the network | 50k lines, zero external crates, physics checked against exact answers |
-| [**TRU-Connect**](https://github.com/MandlaBaloyi/TRU-Connect) | Business tools for South Africa's informal economy: order book, loan book, supplier network | Flask, Expo and Next.js, 1,400+ backend tests |
-| [**KasiFlow**](https://github.com/MandlaBaloyi/KasiFlow) | Akayza: credit book, orders and card payments for township traders, with sealed records | Team entry, selected out of 151 teams at GKHack26 |
-| [**msindex**](https://github.com/MandlaBaloyi/msindex) | Parametric maize insurance from satellite data: a priced, sealed drought trigger | Pays 75% of real losses against 50% for rainfall, on seasons it never saw |
-| [**lp-dev-dataquest**](https://github.com/MandlaBaloyi/lp-dev-dataquest) | Ranks South African schools by the risk of losing learners | Test AUC 0.687, and the failed first model is reported, not hidden |
-| [**plant-ecosystem-optimizer**](https://github.com/MandlaBaloyi/plant-ecosystem-optimizer) | A solver for Entelect Hack&lt;IT&gt; 2026 | 1.02 billion points, found by reading the hidden engine's own logs |
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" alt="SQL">
+</p>
 
-## What I work with
+### Mobile and Frontend
 
-| | |
-|---|---|
-| **Languages** | Python, TypeScript, SQL, Rust |
-| **Backend** | Flask, SQLAlchemy, Alembic, PostgreSQL, JWT auth, Docker, AWS |
-| **Mobile and web** | React Native, Expo, Next.js |
-| **Data** | pandas, scikit-learn, Streamlit, Plotly, pdfplumber, rasterio |
-| **AI** | LLM APIs, MCP tool servers, answers grounded in real data |
-| **Quality** | pytest, Jest, GitHub Actions, gitleaks secret scanning |
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=ffffff" alt="Expo">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js">
+</p>
 
-## How I work
+### Backend and APIs
 
-- **Test first, and say what failed.** My READMEs carry the limits and the failures next to the results. One of my data projects reports a model that barely beat chance, and why.
-- **Numbers over adjectives.** Claims come with the measurement that backs them.
-- **Security by habit.** No secrets in repos, input validated at the edge, personal data kept out of logs, and learner data never sent to third parties.
-- **Docs that a newcomer can follow.** If a project needs a guide to run, it gets one.
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff" alt="Flask">
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge" alt="Alembic">
+  <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge" alt="REST">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff" alt="JWT">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP">
+</p>
 
-## Where I can help on your project
+### Data and AI
 
-If you maintain something and want a contributor, these are the areas where I am useful:
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=E70488" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=7A76FF" alt="Plotly">
+  <img src="https://img.shields.io/badge/LLM%20APIs-000000?style=for-the-badge" alt="LLM APIs">
+</p>
 
-- Python and Flask APIs, with tests
-- React Native and Expo screens, typed in TypeScript
-- Data pipelines and model evaluation, including leakage checks
-- Tests, docs and READMEs
-- South African public data (DBE, Stats SA, EMIS, exam reports)
+### Cloud and DevOps
 
-Open an issue or a discussion on any of my repos, or send a pull request to yours and tag me.
+<p>
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/Caddy-000000?style=for-the-badge&logo=caddy&logoColor=1F88C0" alt="Caddy">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+</p>
 
-## 2026 so far
+### Testing and Security
 
-- **GKHack26 (Geekulcha):** selected out of 151 teams, with KasiFlow.
-- **Entelect Hack&lt;IT&gt;:** 1.02 billion points; the leading entries finished near 1.4 to 1.7 billion.
-- **LP Dev DataQuest:** two entries, a school-dropout early warning system and msIndex.
-- **FNB App of the Year:** submitted TRY.
-
-I am looking for **graduate programmes and junior software or data roles**, and for open-source projects where I can contribute.
+<p>
+  <img src="https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="pytest">
+  <img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest">
+  <img src="https://img.shields.io/badge/gitleaks-000000?style=for-the-badge" alt="gitleaks">
+</p>

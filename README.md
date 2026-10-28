@@ -1,7 +1,7 @@
 <h1 align="center">Mandla Baloyi</h1>
 
 <p align="center">
-  <img src="img/typing.svg" alt="Software Engineer, Full-Stack Development, Python and Rust, Systems Programming in Rust, Production-Minded, Clean, Tested Code" width="720">
+  <img src="img/tagline.svg" alt="Software Engineer, Full-Stack Development, Python and Rust, Clean, Tested Code" width="720">
 </p>
 
 <p align="center">
